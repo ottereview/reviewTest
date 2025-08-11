@@ -12,4 +12,6 @@ public class GithubUserDto {
     private String email;
     private String type;
     private String avatarUrl;
+    private String avatarUrl2;
+    private String avatarUrl3;
 }
